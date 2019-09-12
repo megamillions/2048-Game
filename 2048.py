@@ -1,3 +1,6 @@
+#! python3
+# 2048.py - Bot that plays 2048 tile game.
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
